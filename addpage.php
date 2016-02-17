@@ -1,5 +1,6 @@
 <?php 
 //made a small change
+// made a bigger change
     require_once ("Includes/session.php");
     require_once ("Includes/simplecms-config.php"); 
     require_once ("Includes/connectDB.php");
